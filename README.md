@@ -2,6 +2,8 @@
 
 _Este proyecto se trata de un ejemplo de portfolio para desarrollador web que consta de una Landing-Page maquetada usando Bootstrap con el objetivo de conocer a fondo el funcionamiento de este framework._
 
+_Se puede ver una versión en vivo del sitio en: <https://hugo-ff.github.io/Landing-Page-Bootstrap/>_
+
 ## Construido con 🛠️
 
 _Tanto Bootstrap, como sus dependencias a nivel de JavaScript, y el plugin Smooth Scroll son invocados desde sus CDN._
